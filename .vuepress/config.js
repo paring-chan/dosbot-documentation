@@ -9,17 +9,6 @@ module.exports = {
                 link: 'https://github.com/parangee/dosbot-documentation'
             }
         ],
-        sidebar: [
-            {
-                title: 'commands',
-                path: '/commands/',
-                collapsable: false,
-                sidebarDepth: 1,
-                children: [
-                    ['/commands', '목차'],
-                    ['/commands/customcommand', '커스텀 커맨드']
-                ]
-            }
-        ]
+        sidebar: 'auto'
     }
 }
