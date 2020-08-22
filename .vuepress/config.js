@@ -15,7 +15,8 @@ module.exports = {
                 path: '/commands/',
                 collapsable: false,
                 children: [
-                    '/commands/'
+                    '/commands/',
+                    '/commands/customcommand/'
                 ]
             }
         ]
