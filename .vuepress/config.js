@@ -9,6 +9,15 @@ module.exports = {
                 link: 'https://github.com/parangee/dosbot-documentation'
             }
         ],
-        sidebar: 'auto'
+        sidebar: [
+            {
+                title: '명령어',
+                path: '/commands/',
+                collapsable: false,
+                children: [
+                    '/'
+                ]
+            }
+        ]
     }
 }
