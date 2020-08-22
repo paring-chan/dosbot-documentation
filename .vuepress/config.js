@@ -11,8 +11,8 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: '명령어',
-                path: '/명령어/',
+                title: 'commands',
+                path: '/commands/',
                 collapsable: false,
                 sidebarDepth: 1,
                 children: [
