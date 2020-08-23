@@ -13,3 +13,5 @@
 <p style="font-size: 20px">하시고 주소를 치면 QR코드가 생성 됩다.</p>
 다스야 학교검색
 <p style="font-size: 20px">한 후 학교 이름을 쓰시면 됩니다.</p>
+다스야 <아무말>
+<p style="font-size: 20px">다스가 대답합니다. (by.핑퐁빌더)</p>
