@@ -6,5 +6,5 @@
 <a href="https://docs.dosbot.tk/commands/customcommand/">유저가 사용 가능한 명령어 정리 보기</a><br>
 <a href="https://docs.dosbot.tk/commands/">관리자가가 사용 가능한 명령어 정리 보기</a><br>
 <br>
-#다스봇 설정하는 법
+# 다스봇 설정하는 법
 <a href="https://youtu.be/2CbPQ74X6zs">관리자가가 사용 가능한 명령어 정리 보기</a><br>
