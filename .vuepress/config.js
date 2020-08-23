@@ -1,6 +1,6 @@
 module.exports = {
     title: 'DOSBOT DOCS',
-    description: '다스봇 문서',
+    description: '다스봇 사용 방법',
     dest: 'public',
     themeConfig: {
         nav: [
