@@ -10,4 +10,5 @@
 <a href="https://youtu.be/2CbPQ74X6zs">역할 설정하는 방법</a><br><br><br><br><br><br><br><br>
 # 다스봇 기록
 
-2020-08-20 40개 서버 돌파!
+<p style="font-size: 10px">2020-08-20 40개 서버 돌파!</p>
+
