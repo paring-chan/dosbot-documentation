@@ -20,5 +20,15 @@ module.exports = {
                 ]
             }
         ]
-    }
+    },
+    head: [
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-3223608861068237",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+    ]
+  ]
 }
