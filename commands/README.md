@@ -6,4 +6,4 @@
 <p style="font-size: 10px">노래를 정지 합니다.</p>
 
 
-<p style="font-size: 30px">빨간색: 0xff0000 주황색: 0xffcb6b 노란색: 0xffff00 초록색: 0xa5ea89 파란색: 0x89a5ea 보라색: 0x843DA4 회색: 0x929292 흰색: 0xfff 검은색: 0x000)</p>
+<p style="font-size: 8px">빨간색: 0xff0000 주황색: 0xffcb6b 노란색: 0xffff00 초록색: 0xa5ea89 파란색: 0x89a5ea 보라색: 0x843DA4 회색: 0x929292 흰색: 0xfff 검은색: 0x000)</p>
