@@ -8,3 +8,9 @@
 <p style="font-size: 10px">노래를 스킵 합니다.</p>
 정지
 <p style="font-size: 10px">노래를 정지 합니다.</p>
+되감기
+<p style="font-size: 10px">노래를 몇 초 전으로 전환 합니다.</p>
+빨리감기
+<p style="font-size: 10px">노래를 몇 후로 전환 합니다.</p>
+탐색
+<p style="font-size: 10px">노래를 몇 초로 이동 합니다.</p>
