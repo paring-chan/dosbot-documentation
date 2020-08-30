@@ -6,3 +6,5 @@
 <p style="font-size: 10px">노래를 재생 합니다.</p>
 스킵
 <p style="font-size: 10px">노래를 스킵 합니다.</p>
+정지
+<p style="font-size: 10px">노래를 정지 합니다.</p>
